@@ -1,2 +1,2 @@
-print("Prueba de nos funcione a todos")
+print("Prueba de que nos funcione a todos")
 #Primer comentario
