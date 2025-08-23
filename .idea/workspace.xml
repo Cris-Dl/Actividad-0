@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="230d0d23-d761-46e7-8a43-3dcb6e17476f" name="Changes" comment="Se creó la rama test para hacer diferentes pruebas al programa" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="logica-y-operaciones" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Cris-Dl&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Cris-Dl/Actividad-0.git&quot;,
+    &quot;accountId&quot;: &quot;4e21e9f2-8b43-449f-be4f-8fee5066ffac&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="31VhMDxzBZYJpZqr4dFb1lGOTxs" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-d9fa9deec7cb-d902c0275401-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-252.23892.515" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="230d0d23-d761-46e7-8a43-3dcb6e17476f" name="Changes" comment="" />
+      <created>1755615096786</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1755615096786</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Probando pushs">
+      <option name="closed" value="true" />
+      <created>1755615134683</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1755615134683</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Creación de ramas para los diferentes roles">
+      <option name="closed" value="true" />
+      <created>1755615842589</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1755615842589</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Creación de ramas para los diferentes roles">
+      <option name="closed" value="true" />
+      <created>1755615994853</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1755615994853</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Creación de ramas para los diferentes roles">
+      <option name="closed" value="true" />
+      <created>1755616105408</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1755616105408</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Se creó la rama test para hacer diferentes pruebas al programa">
+      <option name="closed" value="true" />
+      <created>1755967680910</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1755967680910</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Probando pushs" />
+    <MESSAGE value="Creación de ramas para los diferentes roles" />
+    <MESSAGE value="Se creó la rama test para hacer diferentes pruebas al programa" />
+    <option name="LAST_COMMIT_MESSAGE" value="Se creó la rama test para hacer diferentes pruebas al programa" />
+  </component>
+</project>
