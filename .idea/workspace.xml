@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="230d0d23-d761-46e7-8a43-3dcb6e17476f" name="Changes" comment="Se creó la rama logica y operaciones para poder programar la mayoria de funciones del programa, tercer intento" />
+    <list default="true" id="230d0d23-d761-46e7-8a43-3dcb6e17476f" name="Changes" comment="Se creó la rama logica y operaciones para poder programar la mayoria de funciones del programa, tercer intento">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/actividad_0.py" beforeDir="false" afterPath="$PROJECT_DIR$/actividad_0.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,7 +47,7 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main"
+    "git-widget-placeholder": "logica-y-operaciones"
   }
 }]]></component>
   <component name="SharedIndexes">
@@ -422,7 +425,15 @@
       <option name="project" value="LOCAL" />
       <updated>1755968179647</updated>
     </task>
-    <option name="localTasksCounter" value="46" />
+    <task id="LOCAL-00046" summary="Se creó la rama logica y operaciones para poder programar la mayoria de funciones del programa, tercer intento">
+      <option name="closed" value="true" />
+      <created>1755968207644</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1755968207644</updated>
+    </task>
+    <option name="localTasksCounter" value="47" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
