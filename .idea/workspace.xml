@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="230d0d23-d761-46e7-8a43-3dcb6e17476f" name="Changes" comment="Se creó la rama test para hacer diferentes pruebas al programa" />
+    <list default="true" id="230d0d23-d761-46e7-8a43-3dcb6e17476f" name="Changes" comment="Se creó la rama logica y operaciones para poder programar la mayoria de funciones del programa, tercer intento" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,7 +13,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="logica-y-operaciones" />
+        <entry key="$PROJECT_DIR$" value="main" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -102,7 +102,327 @@
       <option name="project" value="LOCAL" />
       <updated>1755967680910</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Se creó la rama logica y operaciones para poder programar la mayoria de funciones del programa">
+      <option name="closed" value="true" />
+      <created>1755967943158</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1755967943158</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Se creó la rama logica y operaciones para poder programar la mayoria de funciones del programa">
+      <option name="closed" value="true" />
+      <created>1755968071740</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1755968071740</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Se creó la rama logica y operaciones para poder programar la mayoria de funciones del programa, tercer intento">
+      <option name="closed" value="true" />
+      <created>1755968148226</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1755968148226</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Se creó la rama logica y operaciones para poder programar la mayoria de funciones del programa, tercer intento">
+      <option name="closed" value="true" />
+      <created>1755968152424</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1755968152424</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Se creó la rama logica y operaciones para poder programar la mayoria de funciones del programa, tercer intento">
+      <option name="closed" value="true" />
+      <created>1755968153499</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1755968153499</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Se creó la rama logica y operaciones para poder programar la mayoria de funciones del programa, tercer intento">
+      <option name="closed" value="true" />
+      <created>1755968153984</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1755968153984</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Se creó la rama logica y operaciones para poder programar la mayoria de funciones del programa, tercer intento">
+      <option name="closed" value="true" />
+      <created>1755968154306</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1755968154306</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Se creó la rama logica y operaciones para poder programar la mayoria de funciones del programa, tercer intento">
+      <option name="closed" value="true" />
+      <created>1755968154557</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1755968154557</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Se creó la rama logica y operaciones para poder programar la mayoria de funciones del programa, tercer intento">
+      <option name="closed" value="true" />
+      <created>1755968157957</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1755968157957</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Se creó la rama logica y operaciones para poder programar la mayoria de funciones del programa, tercer intento">
+      <option name="closed" value="true" />
+      <created>1755968158994</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1755968158994</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Se creó la rama logica y operaciones para poder programar la mayoria de funciones del programa, tercer intento">
+      <option name="closed" value="true" />
+      <created>1755968159418</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1755968159418</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Se creó la rama logica y operaciones para poder programar la mayoria de funciones del programa, tercer intento">
+      <option name="closed" value="true" />
+      <created>1755968159607</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1755968159607</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Se creó la rama logica y operaciones para poder programar la mayoria de funciones del programa, tercer intento">
+      <option name="closed" value="true" />
+      <created>1755968159785</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1755968159785</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Se creó la rama logica y operaciones para poder programar la mayoria de funciones del programa, tercer intento">
+      <option name="closed" value="true" />
+      <created>1755968159942</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1755968159942</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Se creó la rama logica y operaciones para poder programar la mayoria de funciones del programa, tercer intento">
+      <option name="closed" value="true" />
+      <created>1755968160135</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1755968160135</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Se creó la rama logica y operaciones para poder programar la mayoria de funciones del programa, tercer intento">
+      <option name="closed" value="true" />
+      <created>1755968160299</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1755968160299</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Se creó la rama logica y operaciones para poder programar la mayoria de funciones del programa, tercer intento">
+      <option name="closed" value="true" />
+      <created>1755968160469</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1755968160469</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Se creó la rama logica y operaciones para poder programar la mayoria de funciones del programa, tercer intento">
+      <option name="closed" value="true" />
+      <created>1755968160650</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1755968160650</updated>
+    </task>
+    <task id="LOCAL-00024" summary="Se creó la rama logica y operaciones para poder programar la mayoria de funciones del programa, tercer intento">
+      <option name="closed" value="true" />
+      <created>1755968160829</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1755968160829</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Se creó la rama logica y operaciones para poder programar la mayoria de funciones del programa, tercer intento">
+      <option name="closed" value="true" />
+      <created>1755968160996</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1755968160996</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Se creó la rama logica y operaciones para poder programar la mayoria de funciones del programa, tercer intento">
+      <option name="closed" value="true" />
+      <created>1755968161237</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1755968161237</updated>
+    </task>
+    <task id="LOCAL-00027" summary="Se creó la rama logica y operaciones para poder programar la mayoria de funciones del programa, tercer intento">
+      <option name="closed" value="true" />
+      <created>1755968170950</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1755968170950</updated>
+    </task>
+    <task id="LOCAL-00028" summary="Se creó la rama logica y operaciones para poder programar la mayoria de funciones del programa, tercer intento">
+      <option name="closed" value="true" />
+      <created>1755968171506</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1755968171506</updated>
+    </task>
+    <task id="LOCAL-00029" summary="Se creó la rama logica y operaciones para poder programar la mayoria de funciones del programa, tercer intento">
+      <option name="closed" value="true" />
+      <created>1755968171703</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1755968171703</updated>
+    </task>
+    <task id="LOCAL-00030" summary="Se creó la rama logica y operaciones para poder programar la mayoria de funciones del programa, tercer intento">
+      <option name="closed" value="true" />
+      <created>1755968171870</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1755968171870</updated>
+    </task>
+    <task id="LOCAL-00031" summary="Se creó la rama logica y operaciones para poder programar la mayoria de funciones del programa, tercer intento">
+      <option name="closed" value="true" />
+      <created>1755968172047</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1755968172047</updated>
+    </task>
+    <task id="LOCAL-00032" summary="Se creó la rama logica y operaciones para poder programar la mayoria de funciones del programa, tercer intento">
+      <option name="closed" value="true" />
+      <created>1755968172192</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1755968172192</updated>
+    </task>
+    <task id="LOCAL-00033" summary="Se creó la rama logica y operaciones para poder programar la mayoria de funciones del programa, tercer intento">
+      <option name="closed" value="true" />
+      <created>1755968175510</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1755968175510</updated>
+    </task>
+    <task id="LOCAL-00034" summary="Se creó la rama logica y operaciones para poder programar la mayoria de funciones del programa, tercer intento">
+      <option name="closed" value="true" />
+      <created>1755968176037</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1755968176037</updated>
+    </task>
+    <task id="LOCAL-00035" summary="Se creó la rama logica y operaciones para poder programar la mayoria de funciones del programa, tercer intento">
+      <option name="closed" value="true" />
+      <created>1755968176237</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1755968176237</updated>
+    </task>
+    <task id="LOCAL-00036" summary="Se creó la rama logica y operaciones para poder programar la mayoria de funciones del programa, tercer intento">
+      <option name="closed" value="true" />
+      <created>1755968176415</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1755968176415</updated>
+    </task>
+    <task id="LOCAL-00037" summary="Se creó la rama logica y operaciones para poder programar la mayoria de funciones del programa, tercer intento">
+      <option name="closed" value="true" />
+      <created>1755968176559</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1755968176559</updated>
+    </task>
+    <task id="LOCAL-00038" summary="Se creó la rama logica y operaciones para poder programar la mayoria de funciones del programa, tercer intento">
+      <option name="closed" value="true" />
+      <created>1755968176741</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1755968176741</updated>
+    </task>
+    <task id="LOCAL-00039" summary="Se creó la rama logica y operaciones para poder programar la mayoria de funciones del programa, tercer intento">
+      <option name="closed" value="true" />
+      <created>1755968176930</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1755968176930</updated>
+    </task>
+    <task id="LOCAL-00040" summary="Se creó la rama logica y operaciones para poder programar la mayoria de funciones del programa, tercer intento">
+      <option name="closed" value="true" />
+      <created>1755968178007</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1755968178007</updated>
+    </task>
+    <task id="LOCAL-00041" summary="Se creó la rama logica y operaciones para poder programar la mayoria de funciones del programa, tercer intento">
+      <option name="closed" value="true" />
+      <created>1755968178557</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1755968178557</updated>
+    </task>
+    <task id="LOCAL-00042" summary="Se creó la rama logica y operaciones para poder programar la mayoria de funciones del programa, tercer intento">
+      <option name="closed" value="true" />
+      <created>1755968179176</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1755968179176</updated>
+    </task>
+    <task id="LOCAL-00043" summary="Se creó la rama logica y operaciones para poder programar la mayoria de funciones del programa, tercer intento">
+      <option name="closed" value="true" />
+      <created>1755968179349</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1755968179349</updated>
+    </task>
+    <task id="LOCAL-00044" summary="Se creó la rama logica y operaciones para poder programar la mayoria de funciones del programa, tercer intento">
+      <option name="closed" value="true" />
+      <created>1755968179497</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1755968179497</updated>
+    </task>
+    <task id="LOCAL-00045" summary="Se creó la rama logica y operaciones para poder programar la mayoria de funciones del programa, tercer intento">
+      <option name="closed" value="true" />
+      <created>1755968179647</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1755968179647</updated>
+    </task>
+    <option name="localTasksCounter" value="46" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -120,6 +440,8 @@
     <MESSAGE value="Probando pushs" />
     <MESSAGE value="Creación de ramas para los diferentes roles" />
     <MESSAGE value="Se creó la rama test para hacer diferentes pruebas al programa" />
-    <option name="LAST_COMMIT_MESSAGE" value="Se creó la rama test para hacer diferentes pruebas al programa" />
+    <MESSAGE value="Se creó la rama logica y operaciones para poder programar la mayoria de funciones del programa" />
+    <MESSAGE value="Se creó la rama logica y operaciones para poder programar la mayoria de funciones del programa, tercer intento" />
+    <option name="LAST_COMMIT_MESSAGE" value="Se creó la rama logica y operaciones para poder programar la mayoria de funciones del programa, tercer intento" />
   </component>
 </project>
